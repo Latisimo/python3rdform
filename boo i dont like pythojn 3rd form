@@ -1,1 +1,23 @@
-i ediyt thois
+print("i")
+print("am")
+print("coding")
+print()
+print("can you?")
+
+
+print("football score")
+team1 = "chelsea"
+team2 = "arsenal"
+Tm1s = "2"
+Tm2s = "1"
+print(team1 Tm1s team2 Tm2s)
+
+
+print("in todays swim race its")
+print()
+swimmer_1name = "raj"
+swimmer_2name = "saha"
+swimmer_3name = "rik"
+print(swimmer_1name, "vs" swimmer_2name "vs" swimmer_3name)
+
+
