@@ -42,9 +42,13 @@ print("Hello " ,  name , " You are, " , age)
  
  
  # this asks you what is your name and age and stores each of them in seperate variables. at the end it uses theswe variables to print hello your name and your age
+in line one the function is input andf the variable is name
+in line 3 the function is int(input()) and the variable is age in line 5 the functiojn is print
 
-
-
+uname = input("input your user name person")
+password = input("create your password")
+password = input("repeat tjis password plkease")
+print("you are signed up please log in")
 
 
 
