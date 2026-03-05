@@ -1,0 +1,52 @@
+task 1 
+
+game = "Fifa" 
+
+print("Let's play", game) 
+
+TeamOneScore = 0 
+
+TeamTwoScore = 0 
+
+print("The game has now begun") 
+
+print("The score is" ,TeamOneScore, TeamTwoScore) 
+#this uses the print function to show that someone is saying to play fifa using variables tro show this. game and TeamOneScore and TeamTwoScore are all variables eventually used in the final sentance
+in this print is the function, name is a variable and TeamOneSAcore is another variable
+
+task 2
+
+name = input("Enter your name: ")  
+
+print("Hello, " , name)  
+
+this askls the user to input their name into a variable and then the code printws hello and the variable name
+
+
+task 3
+
+age= int(input("Enter your age: ")) 
+
+print(“You are, " , age) 
+
+ explanation it asks you whaqt agfe you are and depending in what age you are it says taytr out loud  age ius a variable stoerred in which you deciode
+
+task4 
+
+name = input("Enter your name: ") 
+
+age= int(input("Enter your age: ")) 
+
+print("Hello " ,  name , " You are, " , age) 
+
+ 
+ 
+ # this asks you what is your name and age and stores each of them in seperate variables. at the end it uses theswe variables to print hello your name and your age
+
+
+
+
+
+
+
+
