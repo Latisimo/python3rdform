@@ -63,5 +63,30 @@ Nprice = Price * 0.9
 Print( "The new price for" , Item, "is", Nprice,)  
 
 
+ 
+
+A user wants to enter a "Member Code" which is just a single letter. 
+
+Ask the user for their Initial (Character) 
+
+Ask for their Age (Integer) 
+
+Create a Boolean variable called is_allowed. It should be True if the user is over 18. 
+
+Print: "Access Granted: [is_allowed]". 
+
+answer:
+
+Initial = input("what is ur first ionitial") 
+
+Age = int(input("what is your age")) 
+
+
+if Age < 18 : {
+print("you are not old enough yon child. grow a few years then you can get in")
+}
+else : {
+print("welcome in unc")
+}
 
  
