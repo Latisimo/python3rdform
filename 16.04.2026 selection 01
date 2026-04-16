@@ -1,0 +1,23 @@
+question 1
+code = "python" 
+user = input("Enter the secret code: ") 
+ 
+if user == code: 
+    print("Access granted") 
+
+q2
+num = int(input("Enter a number: ")) 
+ 
+if num % 2 == 0: 
+    print("Even number") 
+
+
+q3
+age = int(input("how old are you"))
+
+if age >13:
+          print("teenager")
+else:
+          print("you are the youngest person ever")
+
+q4
