@@ -1,0 +1,29 @@
+q1
+score = int(input("Enter score: ")) 
+ 
+if score >= 70: 
+    print("A") 
+elif score >= 60: 
+    print("B") 
+else: 
+    print("C") 
+q2
+user = input("Username: ") 
+password = input("Password: ") 
+ 
+if user == "admin" and password == "123": 
+    print("Access granted") 
+q3
+um = int(input("Enter number: ")) 
+ 
+if num >= 1 and num <= 10: 
+    print("In range") 
+q4
+ 
+Age = int(input("what is your age?") 
+If age <= 5: 
+  Print(" for you iuy Is free") 
+Elif age >= 18: 
+  Print( "ahh a teenager. I still like you £5 for you") 
+Else: 
+  Print(" boo I onl;y like little kids and teenagers for you it is £10")
