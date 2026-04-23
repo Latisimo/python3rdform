@@ -1,0 +1,57 @@
+foreloops chalenges
+
+chanllenge 1
+for i in range(10):
+  print("kebab")
+
+challenge 2
+
+for i in range(0, 25, 3):
+    print(i)
+
+challenge 3
+name = str(input("Input your name>>>"))
+for i in range(int(input("how many times do you want your name to bge displayed?"))):
+  print(name)
+
+challenge 4
+
+number = int(input("Enter a times table: "))
+for i in range(1,13):
+  print("showing the",number,"times table")
+  print(i ,"x", number, "=", i*number)
+
+challenge 5 
+for i in range(10, 0, -1):
+  print (i)
+print("!!Blast off!!")
+
+challenge 6 
+
+rainbow =["red","orange","yellow","green","blue","indigo", "violet"]
+number = 0 
+for i in rainbow:
+  number = number + 1
+  print ("Colour",number,"is", i)
+
+chalenge 7
+num = int(input("tell me a number and i can guarantee i can cout back from it until i reach its negative version"))
+for i in range (num, -num -1, -1):
+  print(i)
+
+challenge 8
+
+import random
+
+for i in range(6):
+  a = random.randint(0,50)
+  print(a)
+
+challenge 9 
+import random
+money = [0, 100, 1000, 10000, 100000, 10000000, 10000000000]
+
+for i in range (0,9):
+  array = random.choice(money)
+  print("player", i, "gets" ,array, "amount of money")
+  
